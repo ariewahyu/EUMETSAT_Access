@@ -1,0 +1,30 @@
+# Component information
+name: eumdac_data_store
+description: EUMETSAT python tools to support Data Store and Data Tailor usage through the EUMETSAT Data Access Client (EUMDAC).
+copyright: 2024 EUMETSAT
+license_spdx: MIT
+home_url:
+date: 2022-01-05
+ 
+# Package IPR documentation
+license_text_file: LICENSE.txt
+ 
+# File(s) associated to this component
+about_resource: index.ipynb
+about_resource: 1_1_Discovering_collections.ipynb
+about_resource: 1_2_Searching_and_filtering_products.ipynb
+about_resource: 1_3_Downloading_products.ipynb
+about_resource: 1_4_Sentinel3_data_store_access_eumdac.ipynb
+about_resource: 1_5_MTG_data_access.ipynb
+about_resource: 1_6_MTG_LI_data_access.ipynb
+about_resource: 2_1_Using_the_Data_Tailor_with_EUMDAC.ipynb
+about_resource: 2_2_Cleaning_the_Data_Tailor_workspace.ipynb
+about_resource: 3_Data_Tailor_standalone.ipynb
+about_resource: 4_EUMDAC-cookbook.ipynb
+about_resource: README.md
+about_resource: AUTHORS.txt
+about_resource: LICENSE.txt
+about_resource: img/DataStore_EUMETSAT.png
+about_resource: img/DataStore_EUMETSAT_Copernicus.png
+about_resource: img/DataTailor_EUMETSAT.png
+about_resource: img/MTG_lacs.png

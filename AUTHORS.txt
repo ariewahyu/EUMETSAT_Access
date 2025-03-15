@@ -1,0 +1,13 @@
+# Copyright holder
+EUMETSAT 2024
+ 
+# List of development authors
+Ben Loveday, ops@eumetsat.int (under contract EUM/CO/18/4600001992/SW)
+Niklas Jordan, ops@eumetsat.int (under contract)
+
+# Contributory authors
+Yigit Öner Altintas, ops@eumetsat.int (under contract)
+Pramit Ghosh, ops@eumetsat.int (under contract)
+Valters Zeizis, ops@eumetsat.int (under contract)
+
+# Acknowledgements
