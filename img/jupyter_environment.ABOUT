@@ -1,0 +1,10 @@
+# Component information
+name: jupyter_environment.png
+description: Project Jupyter logo
+copyright: 2020 Project Jupyter
+license_spdx: CC0-1.0
+home_url: https://jupyter.org/governance/trademarks.html
+date: 2020-10-20
+ 
+# File(s) associated to this component
+about_resource: jupyter_environment.png
